@@ -42,7 +42,7 @@
         <div class="card card-md">
           <div class="card-body">
             <h2 class="h2 text-center mb-4">Admin Login</h2>
-            <form action="./dashboard.html" method="get" autocomplete="off" novalidate>
+            <form action="./dashboard.php" method="get" autocomplete="off" novalidate>
               <div class="mb-3">
                 <label class="form-label">Email address</label>
                 <input
